@@ -35,5 +35,5 @@ throws NotFoundException
 ```
 ## Output
 ```
-![output]("https://github.com/antonysam/Barcode_automation/blob/master/Barcode_Automation/Images/output_barcode.JPG")
+![output](https://github.com/antonysam/Barcode_automation/blob/master/Barcode_Automation/Images/output_barcode.JPG)
 
